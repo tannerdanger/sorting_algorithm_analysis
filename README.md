@@ -1,0 +1,2 @@
+# sorting_algorithm_analysis
+The purpose of this study was to compare the run-times of common sorting algorithms on two separate data structures, with 4 different data sizes. This assignment took a little bit of trial and error. The first few times I ran my code I noticed a few runtimes seemed to be much higher than it should have been. I ran through my algorithms line by line and eliminated a few loops and lines of code that caused an extra N to the runtime. Upon adjusting my code, I found my runtimes all were more consistent, and much closer to the average runtime. 
