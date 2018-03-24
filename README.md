@@ -8,3 +8,4 @@ The purpose of this study was to compare the run-times of common sorting algorit
 * [MyRunner](MyRunner.java) - driver file that implements and tests the collections and sorting methods.
 
 # Results
+[Read my final report, including my findings here:](Report.pdf)
