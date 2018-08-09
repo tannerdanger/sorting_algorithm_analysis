@@ -1,7 +1,6 @@
 /*
  * Tanner Brown
- * TCSS 342 - Assignment 2
- * Winter 2018 
+ * January 2018 
  */
 
 import java.util.Arrays;
